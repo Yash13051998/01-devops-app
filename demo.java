@@ -1,3 +1,3 @@
-class Dedmo{
+class Demo{
 
 ]
